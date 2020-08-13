@@ -1,0 +1,30 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    background-color:#131921;
+    position:sticky;
+    top: 0;
+    justify-content: space-between;
+
+    
+}
+
+.navbar__logo{
+margin-left: 8px;
+padding: 13px;
+color: white;
+
+}
+
+.navbar__menu{
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+
+}
+
+.navbar__link{
+margin: 0 10px ;
+font-weight: 800;
+color: white;
+}
